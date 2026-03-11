@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me :
 
 - 💻 I regularly learn about the world of web development
-- 💬 Ask me about **Python, JavaScript, React, Tailwind and others**
+- 💬 Ask me about **Python, JavaScript, Ts and others**
 - 📫 How to reach me **victor.huaycho@tecsup.edu.pe**
 - 🌱 I’m currently learning **C#, Go and Rust**
 
@@ -23,8 +23,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" with="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postrges" with="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" with="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" with="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" with="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" with="40" height="40" />&nbsp;
