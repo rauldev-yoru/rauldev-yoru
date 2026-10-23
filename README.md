@@ -1,35 +1,29 @@
-<div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Raul-dev</h1>
-    <h3 align="center">
-        I am developer, I like web design and development, I master some of the many web technologies that exist, but I'm always looking to learn and learn more about the world of web development.
-    </h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=640&lines=chill+dev;python+%26+typescript;building+tools+that+scratch+an+itch" alt="" />
+
+### Raul
+
+*Chill dev — I build tools that scratch my own itch, then set them free.*
+
+![followers](https://img.shields.io/github/followers/Raul122-dev?style=flat-square&label=followers&color=0969DA) ![stars](https://img.shields.io/github/stars/Raul122-dev?style=flat-square&label=stars&color=0969DA)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### currently building
 
-- 💻 I regularly learn about the world of web development
-- 💬 Ask me about **Python, JavaScript, Ts and others**
-- 📫 How to reach me **victor.huaycho@tecsup.edu.pe**
-- 🌱 I’m currently learning **C#, Go and Rust**
-
-<div align="left">
-    <h3>🔨 Languages an Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" alt="Python" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postrges" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" with="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" with="40" height="40" />&nbsp;
-    </div>
-</div>
+<a href="https://github.com/Raul122-dev/yomeru"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raul122-dev&repo=yomeru&theme=default&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/Raul122-dev/hermes-alexa-voice"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raul122-dev&repo=hermes-alexa-voice&theme=default&hide_border=true&description_lines_count=2" /></a>
+<br clear="all" />
 
 ---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Astro](https://img.shields.io/badge/Astro-0C0F14?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<sub>self-hosting since forever · my homelab runs more services than I remember</sub>
+
+</div>
