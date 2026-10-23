@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF2E97&center=true&vCenter=true&width=700&lines=chill+dev+%E2%9A%A1;python+%26+typescript;building+tools+that+scratch+an+itch;manga+translation+with+vision+models" />
 
-![followers](https://img.shields.io/github/followers/Raul122-dev?style=for-the-badge&label=followers&color=FF2E97&logo=github&logoColor=white) ![stars](https://img.shields.io/github/stars/Raul122-dev?style=for-the-badge&label=stars&color=00E5FF&logo=github&logoColor=black)
+![followers](https://img.shields.io/github/followers/rauldev-yoru?style=for-the-badge&label=followers&color=FF2E97&logo=github&logoColor=white) ![stars](https://img.shields.io/github/stars/rauldev-yoru?style=for-the-badge&label=stars&color=00E5FF&logo=github&logoColor=black)
 
 **I build tools that scratch my own itch, then set them free.**
 
@@ -12,8 +12,8 @@
 
 ### ⚡ currently building
 
-<a href="https://github.com/Raul122-dev/yomeru"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raul122-dev&repo=yomeru&theme=radical&hide_border=true&description_lines_count=2" /></a>
-<a href="https://github.com/Raul122-dev/hermes-alexa-voice"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raul122-dev&repo=hermes-alexa-voice&theme=radical&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/rauldev-yoru/yomeru"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rauldev-yoru&repo=yomeru&theme=radical&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/rauldev-yoru/hermes-alexa-voice"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rauldev-yoru&repo=hermes-alexa-voice&theme=radical&hide_border=true&description_lines_count=2" /></a>
 <br clear="all" />
 
 ### 🔥 stack
