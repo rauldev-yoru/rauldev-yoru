@@ -12,7 +12,7 @@
 
 ### ⚡ currently building
 
-<a href="https://github.com/rauldev-yoru/yomeru"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rauldev-yoru&repo=yomeru&theme=radical&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/rauldev-yoru/hermes-trello-browser"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rauldev-yoru&repo=hermes-trello-browser&theme=radical&hide_border=true&description_lines_count=2" /></a>
 <a href="https://github.com/rauldev-yoru/hermes-alexa-voice"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=rauldev-yoru&repo=hermes-alexa-voice&theme=radical&hide_border=true&description_lines_count=2" /></a>
 <br clear="all" />
 
