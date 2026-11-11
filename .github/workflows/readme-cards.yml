@@ -1,0 +1,63 @@
+name: Refresh pinned repo cards
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday, before the weekly profile refresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Render pin cards
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=padstudio&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/padstudio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Render pin card (hermes-trello-browser)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=hermes-trello-browser&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/hermes-trello-browser.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Render pin card (yomeru)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=yomeru&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/yomeru.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Render pin card (hermes-alexa-voice)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=hermes-alexa-voice&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/hermes-alexa-voice.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pin/*.svg
+          git commit -m "chore: refresh pinned repo cards" || exit 0
+          git push
