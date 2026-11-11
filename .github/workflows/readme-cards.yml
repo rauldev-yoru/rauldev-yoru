@@ -54,6 +54,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Render pin card (chrome-extension-devtools-template)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=chrome-extension-devtools-template&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/chrome-extension-devtools-template.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Commit refreshed cards
         run: |
           git config user.name "github-actions[bot]"
