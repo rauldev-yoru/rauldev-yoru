@@ -18,7 +18,16 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Render pin cards
+      - name: Render pin card (enishi)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=enishi&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/enishi.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Render pin card (padstudio)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
