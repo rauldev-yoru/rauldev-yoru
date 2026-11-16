@@ -12,8 +12,8 @@
 
 ### ⚡ currently building
 
-<a href="https://github.com/rauldev-yoru/padstudio"><img align="left" width="47%" src="./assets/pin/padstudio.svg" /></a>
-<a href="https://github.com/rauldev-yoru/hermes-trello-browser"><img align="right" width="47%" src="./assets/pin/hermes-trello-browser.svg" /></a>
+<a href="https://github.com/rauldev-yoru/enishi"><img align="left" width="47%" src="./assets/pin/enishi.svg" /></a>
+<a href="https://github.com/rauldev-yoru/padstudio"><img align="right" width="47%" src="./assets/pin/padstudio.svg" /></a>
 <br clear="all" />
 
 ### 🔥 stack
