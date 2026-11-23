@@ -27,6 +27,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Render pin card (windows-sosa-mcp)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rauldev-yoru&repo=windows-sosa-mcp&theme=radical&hide_border=true&description_lines_count=2
+          path: assets/pin/windows-sosa-mcp.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Render pin card (padstudio)
         uses: stats-organization/github-readme-stats-action@v2
         with:
